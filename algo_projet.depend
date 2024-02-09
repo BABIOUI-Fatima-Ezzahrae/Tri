@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640353281 source:c:\users\pc\documents\td algo\tri\algo_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
